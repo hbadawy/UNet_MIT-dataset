@@ -8,3 +8,6 @@ Training is done on MIT Buildings dataset - Shorter Version
 	train_mask: 20 masks
 	validate: 10 images
 	validate_mask: 10 masks
+
+batch_size = 16
+num_epochs = 20
