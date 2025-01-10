@@ -9,10 +9,15 @@ Training is done on MIT Buildings dataset - Shorter Version
 	validate: 10 images
 	validate_mask: 10 masks
 
-	Version 1:
+	Version 1: (Testing on Train set)
 		batch_size = 16
 		num_epochs = 20
 
-	Version 2:
+	Version 2: (Testing on Train set)
 		batch_size = 2
 		num_epochs = 20
+
+	Version 3: (Testing on Test set)
+		batch_size = 2
+		num_epochs = 20
+
